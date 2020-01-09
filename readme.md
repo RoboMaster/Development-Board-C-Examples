@@ -6,10 +6,12 @@
  - package version: STM32Cube FW_F4 V1.21.1
  - FreeRTOS version: 10.0.1
  - CMSIS-RTOS version: 1.02
-### 配套例程文档
-[user_program.bin](0.new_cubemx_program/user_program.bin)
+ 
 ### 用户程序bin
-[RoboMaster开发板C型嵌入式软件教程文档.pdf](Robomaster开发板C型嵌入式软件教程文档.pdf)
+[user_program.bin](0.new_cubemx_program/user_program.bin)
+
+### 配套例程文档
+[RoboMaster开发板C型嵌入式软件教程文档.pdf](RoboMaster开发板C型嵌入式软件教程文档.pdf)
 ### 配套例程
 * [0.cubemx新工程](0.new_cubemx_program)
 * [1.点亮LED](1.light_led)
