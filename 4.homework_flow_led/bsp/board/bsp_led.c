@@ -1,6 +1,8 @@
 #include "bsp_led.h"
 #include "main.h"
 
+extern TIM_HandleTypeDef htim5;
+
 void aRGB_led_show(uint32_t aRGB)
 {
     static uint8_t alpha;
