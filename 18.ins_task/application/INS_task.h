@@ -33,7 +33,8 @@
 
 #define IMU_DR_SHFITS        0
 #define IMU_SPI_SHFITS       1
-#define IMU_UPDATE_SHFITS        2
+#define IMU_UPDATE_SHFITS    2
+#define IMU_NOTIFY_SHFITS    3
 
 
 #define BMI088_GYRO_RX_BUF_DATA_OFFSET  1
