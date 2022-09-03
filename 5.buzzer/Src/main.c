@@ -127,7 +127,7 @@ int main(void)
             psc = 0;
         }
         buzzer_on(psc, pwm);
-        HAL_Delay(1);
+        HAL_Delay(250);
 
   }
   /* USER CODE END 3 */
